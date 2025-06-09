@@ -136,6 +136,6 @@ Cousin Sisters:
 
 * **GitHub Repository**: [https://github.com/viraj-surana/Josaa-College-Predictor-Tool](https://github.com/viraj-surana/Josaa-College-Predictor-Tool)
 * **JoSAA Counselling Portal**: [https://josaa.nic.in/](https://josaa.nic.in/)
-* **Linkedln:**:[Viraj's Linkedln](https://www.linkedin.com/in/viraj-surana-90a096294/)
+* **Linkedln**: [Viraj's Linkedln](https://www.linkedin.com/in/viraj-surana-90a096294/)
 ---
 
