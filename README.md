@@ -93,7 +93,7 @@ Josaa-College-Predictor-Tool/
 
 A step‑by‑step walkthrough demonstrating the tool in action is available here:
 
-> **Demo Link**: 
+> **Demo Link**: https://drive.google.com/file/d/1H2NgUcsIXqESbUIKlL5CfOvS7rcIMlSh/view?usp=sharing
 
 ---
 
